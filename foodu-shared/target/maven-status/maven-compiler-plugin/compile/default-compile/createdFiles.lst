@@ -1,0 +1,14 @@
+edu/uiu/foodu/shared/net/Protocol.class
+edu/uiu/foodu/shared/util/TokenUtil.class
+edu/uiu/foodu/shared/model/Entities.class
+edu/uiu/foodu/shared/model/Entities$Shop.class
+edu/uiu/foodu/shared/model/Entities$MenuItem.class
+edu/uiu/foodu/shared/model/Entities$PaymentMethod.class
+edu/uiu/foodu/shared/model/Entities$ComplaintStatus.class
+edu/uiu/foodu/shared/model/Entities$Complaint.class
+edu/uiu/foodu/shared/net/Protocol$Message.class
+edu/uiu/foodu/shared/model/Entities$OrderStatus.class
+edu/uiu/foodu/shared/model/Entities$OrderLine.class
+edu/uiu/foodu/shared/model/Entities$Order.class
+edu/uiu/foodu/shared/model/Entities$ShopCode.class
+edu/uiu/foodu/shared/net/Protocol$Type.class
